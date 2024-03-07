@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/JoaoSantos123/pensamento_ananas_blog.github.io/'
+baseURL = 'https://joaosantos123.github.io//pensamento_ananas_blog.github.io/'
 languageCode = 'en-us'
 title = 'Pensamento Ananás'
 theme = 'paper'
