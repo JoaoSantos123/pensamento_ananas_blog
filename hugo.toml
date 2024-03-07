@@ -1,0 +1,4 @@
+baseURL = 'https://pensamentoananas.github.io/'
+languageCode = 'en-us'
+title = 'Pensamento Ananás'
+theme = 'paper'
